@@ -14,7 +14,7 @@ Support NUIverse at [Patreon](https://www.patreon.com/nuinalp) to help sustain p
 
 <hr>
 
-#License
+# License
 
 [BSD Clause 3](https://opensource.org/licenses/BSD-3-Clause)
 
