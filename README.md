@@ -1,5 +1,5 @@
 # Plánium Shell
-Plánium Shell is a HTML5 UI for the Plánium OS
+Plánium Shell is a HTML5-based UI for the Plánium OS
 
 <p align="center">
   <a href="https://github.com/Nuinalp/planium-shell/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-BSD-blue.svg" alt="License"/></a>
